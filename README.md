@@ -1,0 +1,2 @@
+# Jwt_Back_end_APIs_Role_Permission_Authentication_Authorization
+Spring Boot application with Jwt Authentication and Authorization having implemented Role wise permission.
